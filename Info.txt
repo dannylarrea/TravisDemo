@@ -1,0 +1,1 @@
+Set travis to SF http://blog.deadlypenguin.com/blog/2015/04/22/travis-ci-salesforce/
